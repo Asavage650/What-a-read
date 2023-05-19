@@ -4,7 +4,7 @@
 
 ## Decription
 
-This file can be used to generate a readme for any web application or project using node and installing inquier.
+This file can be used to generate a readme for any web application or project using node and installing inquier. So now the user can save time making readme files for every project or webpage they're working on.
 
 ## Table of Contents:
 
