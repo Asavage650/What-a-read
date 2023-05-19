@@ -1,8 +1,8 @@
-# mn
+# Readme Generator
 
 ![Project License](https://img.shields.io/badge/License-MIT-red)  
 ## Decription
-  nm
+  A file where you can create a readme in the command line
   ## Table of Contents:
   - [Installation](#installation)
   - [Usage](#usage)
@@ -11,22 +11,21 @@
   - [Tests](#tests)
   - [Questions](#questions)
 ## Installation
-  nm
+  node.js and inquierer
 
 ## Usage
-  nm
+  To create a readme for any project or website
   
 ## License
-## This project is licensed under:
-  MIT
+  github licenses
   
 ## Contributor
-  nb
+  Derived from starter code
   
 ## Tests
  
-  nb
+  node index
   
 ## Questions
-  nb  
+  link  
 

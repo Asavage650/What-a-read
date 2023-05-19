@@ -36,10 +36,13 @@ This code was derived mainly from starter code from the bootcamp module, then Al
 ## Tests
 
 The user should input node index to test code.
+Demonstration video:https://drive.google.com/file/d/1XzGCfK6_s-RJfK4Zld0yiJUJb3oZ8rtZ/view
 
 ## Questions
 
-For any questions please contact me through github or my email:
+For any questions please contact me:
+Github:
 https://github.com/Asavage650
 username: asavage650
-email:alexiussavage0@gmail.com
+Email:
+alexiussavage0@gmail.com

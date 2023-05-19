@@ -30,8 +30,9 @@ const questions = [
   },
   {
     type: "input",
-    message: "Choose a license badge",
+    message: "Choose a license",
     name: "licenseB",
+    options: ["MIT", "APACHI 2.0", "None"],
   },
   {
     type: "input",
