@@ -30,7 +30,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Choose a license",
+    message: "Choose a license badge",
     name: "license",
   },
   {
