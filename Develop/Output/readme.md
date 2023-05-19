@@ -1,9 +1,8 @@
-# Title README Generator
+# mn
 
 ![Project License](https://img.shields.io/badge/License-MIT-red)  
-
-  This app can...
-  ## Decription
+## Decription
+  nm
   ## Table of Contents:
   - [Installation](#installation)
   - [Usage](#usage)
@@ -12,20 +11,22 @@
   - [Tests](#tests)
   - [Questions](#questions)
 ## Installation
-  Install like any other web application can be opened with google chrome or safari
+  nm
 
 ## Usage
-  this app can be used to ...
+  nm
   
 ## License
+## This project is licensed under:
   MIT
   
 ## Contributor
-  ME
+  nb
   
 ## Tests
-  NO
+ 
+  nb
   
 ## Questions
-  link  
+  nb  
 

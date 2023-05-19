@@ -1,19 +1,15 @@
-function renderLicenseBadge(license) {
-  return `![Project License](https://img.shields.io/badge/License-${license}-red)`;
+function renderLicenseBadge(licenseB) {
+  return `![Project License](https://img.shields.io/badge/License-${licenseB}-red)`;
 }
 
 function renderLicenseLink(license) {
   return `https://choosealicense.com/ ${license}`;
 }
 
-function renderLicenseSection(license) {
-  return `${license}`;
-}
-
 function generateMarkdown(data) {
-  return `# Title ${data.title}
+  return `# ${data.title}
 
-${renderLicenseBadge(data.license)}  
+${renderLicenseBadge(data.licenseB)}  
 ## Decription
   ${data.description}
   ## Table of Contents:
@@ -36,6 +32,7 @@ ${renderLicenseBadge(data.license)}
   ${data.contributors}
   
 ## Tests
+ 
   ${data.tests}
   
 ## Questions

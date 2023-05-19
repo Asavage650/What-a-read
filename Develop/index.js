@@ -20,7 +20,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "How can this application be installed?",
+    message: "What needs to be installed to run this code?",
     name: "installation",
   },
   {
@@ -31,6 +31,11 @@ const questions = [
   {
     type: "input",
     message: "Choose a license badge",
+    name: "licenseB",
+  },
+  {
+    type: "input",
+    message: "What is this project licensed under?",
     name: "license",
   },
   {
@@ -40,7 +45,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Please input any tests you ran on this webpage",
+    message: "What command would the user input to run a test?",
     name: "tests",
   },
   {
